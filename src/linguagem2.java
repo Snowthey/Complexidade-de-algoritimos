@@ -62,8 +62,6 @@ class linguagem2 {
                 assertEquals(true, retorno);
             }
 
-
-
         }
     }
 
